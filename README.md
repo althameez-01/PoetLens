@@ -137,9 +137,8 @@ Voice narration of generated poems
 
 Multilingual emotion-poem synthesis
 
-📊 Visualization dashboard for emotion spectra
+Visualization dashboard for emotion spectra
 
-🪪 License
-
+License
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it with attribution.
